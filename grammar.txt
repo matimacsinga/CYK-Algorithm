@@ -1,0 +1,7 @@
+S->DE|FE|DF|FG
+X->FY|GY|a|b
+Y->FY|GY|a|b|c
+D->FX
+E->GX
+F->a
+G->b
